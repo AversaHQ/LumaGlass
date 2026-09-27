@@ -1,7 +1,7 @@
 {
   "versionCode": 6,
   "versionName": "1.0.5",
-  "apkUrl": "https://github.com/AversaHQ/LumaGlass/releases/download/v1.0.4/LumaGlass.apk",
-  "sha256": "098dab646b9f6d149eb0d8e9e726a7584acda374421454d3c9c9f3ec6efcdedf",
-  "releaseNotes": "Update detection test for Luma 1.0.5."
+  "apkUrl": "https://github.com/AversaHQ/LumaGlass/releases/download/v1.0.5/LumaGlass.apk",
+  "sha256": "e17bab24088444b83aeb9c96e610f7cd4822dad0aa1d6e62379cd0a05b67a879",
+  "releaseNotes": "LumaGlass 1.0.5 update."
 }
